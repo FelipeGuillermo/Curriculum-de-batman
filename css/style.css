@@ -1,0 +1,22 @@
+h1 {
+    background-color: #c4c4c4;
+    color: #005677;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    font-size: 35px;
+}
+h2 {
+    background-color: #c4c4c4;
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+.datos-personales {
+    font-style: italic;
+    font-weight: bold
+}
+footer {
+    background-color: #005677;
+    color: #FFFFFF;
+}
